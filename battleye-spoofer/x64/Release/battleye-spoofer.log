@@ -1,0 +1,6 @@
+﻿  Building 'battleye-spoofer' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.cpp
+N:\battleye-spoofer\battleye-spoofer\main.cpp(27,10): warning C4189: 'len': local variable is initialized but not referenced
+  battleye-spoofer.vcxproj -> N:\battleye-spoofer\x64\Release\battleye-spoofer.sys
+  Inf2Cat task was skipped as there were no inf files to process
+  
